@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Link Launcher</string>
+    <string name="open_link">Open Link</string>
+    <string name="link_hint">scheme://host/path</string>
+</resources>
